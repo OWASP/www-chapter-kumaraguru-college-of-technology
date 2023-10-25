@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Nirosh Kumar H](mailto:nirosh.kumarh@owasp.org)
+* [Vishal ML](mailto:vishal.ml@owasp.org)
+* [Kishorearm K](mailto:kishorearm.k@owasp.org)
+* [Shriram Krithik SS](mailto:shriram.krithikss@owasp.org)
