@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<img src="assets/images/logo.jpeg" />
+<img src="assets/images/logo.png" />
 
 ## Welcome
 Welcome to the OWASP Student Chapter at Kumaraguru College of Technology, founded in November 2023! We are a dynamic group of students committed to promoting cyber awareness and enhancing cybersecurity skills among our fellow students. Our chapter hosts engaging events on various aspects of application security, from web/app security to ethical hacking. Regardless of your background, we invite you to join us in our mission to make the digital world safer. As a part of our esteemed institution, we are driven by innovation and a passion for coding, organizing hackathons, tech-talks, and workshops. Together, we strive to nurture a culture of coding excellence on our campus. Join us in making the world a better place through innovative techniques and discoveries.
