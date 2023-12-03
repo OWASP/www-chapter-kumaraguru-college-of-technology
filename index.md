@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kumaraguru College of Technology - Student Chapter
-tags: KCT Coimbatore Kumaraguru India NovaCTF iQube
+tags: KCT,Coimbatore,Kumaraguru,India,NovaCTF,iQube,OWASP-KCT Upcoming Events,OWASP-KCT Past Events,OWASP-KCT Speakers
 region: Asia
 meetup-group:
 
