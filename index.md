@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kumaraguru College of Technology - Student Chapter
-tags: OWASP-KCT Speakers, OWASP-KCT Upcoming Events, OWASP-KCT Past Events, OWASP-KCT Leaders
+tags: OWASP-KCT Speakers, OWASP-KCT Upcoming Events, OWASP-KCT Past Events
 region: Asia
 meetup-group:
 
