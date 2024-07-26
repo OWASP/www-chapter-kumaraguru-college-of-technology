@@ -19,8 +19,7 @@ All events conducted by OWASP KCT are free and open to anyone interested. To par
 
 ## Speaker request
 If you like to speak on our upcoming events, Kindly mail us
-* [Vishal ML](mailto:vishal.ml@owasp.org)
-* [Kishoreram K](mailto:kishorearm.k@owasp.org)
+* [Subhash M]
 * [Shriram Krithik SS](mailto:shriram.krithikss@owasp.org)
 
 **Email Format :**
