@@ -1,0 +1,23 @@
+leaders:
+  - name: Nirosh Kumar H
+    email: nirosh.kumarh@owasp.org
+  - name: Shriram Krithik SS
+    email: shriram.krithikss@owasp.org
+  - name: Subhash M
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Coimbatore
+  latitude: 11.0018115
+  longitude: 76.9628425
+name: OWASP Kumaraguru College of Technology - Student Chapter
+repositories:
+  - name: www-chapter-kumaraguru-college-of-technology
+    url: https://github.com/OWASP/www-chapter-kumaraguru-college-of-technology
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP-KCT Speakers
+  - OWASP-KCT Upcoming Events
+  - OWASP-KCT Past Events
+website: https://owasp.org/www-chapter-kumaraguru-college-of-technology
